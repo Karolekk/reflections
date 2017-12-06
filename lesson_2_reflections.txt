@@ -26,6 +26,9 @@ When I want to make a different version of a program, f.e. different language ve
 
 How do the diagrams help you visualize the branch structure?
 
+Using command git log --graph --oneline [branch_name1] [branch_name2] I can see the graphical
+interpretation of the brunch structure and get every commit and its parent in this branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
