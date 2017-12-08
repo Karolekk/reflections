@@ -32,5 +32,8 @@ interpretation of the brunch structure and get every commit and its parent in th
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging 2 branches together is 1 branch containing all the commits from both
+branches. The diagram shows them as invidual branches joined at the moment we decided to do so.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
