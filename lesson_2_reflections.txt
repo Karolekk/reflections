@@ -37,3 +37,5 @@ branches. The diagram shows them as invidual branches joined at the moment we de
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging saves time but it can result in conflicts or bugs in a code.
