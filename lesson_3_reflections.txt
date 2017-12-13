@@ -7,3 +7,14 @@ stay up-to-date with your remote repository?
 
 So I have more control over the changes in the code, I commit them when I'm sure that everything 
 works fine.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forking allows to copy someone's repository without cloning it to my local machine first.
+When I want to make changes to the code I need to pull it to my machine. Forking is cloning
+that github makes for me on their machines. Github makes track of the number of people
+who made fork. It suggests changes back to the original repository.
+
+I can clone a git repository to my machine.
+
+I use branches when I'm working with one repository and want to add some changes.
