@@ -18,3 +18,9 @@ who made fork. It suggests changes back to the original repository.
 I can clone a git repository to my machine.
 
 I use branches when I'm working with one repository and want to add some changes.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When I know I will be working without the internet access, so I can know what changed 
+when I have the internet access.
+
